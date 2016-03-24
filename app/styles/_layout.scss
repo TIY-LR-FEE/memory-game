@@ -1,0 +1,10 @@
+#heading {
+  text-align: center;
+  font-family: Helvetica;
+  font-variant: small-caps;
+
+  &.won {
+    color: crimson;
+    transition: color 0.5s;
+  }
+}
